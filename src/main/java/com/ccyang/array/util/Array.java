@@ -100,6 +100,22 @@ public class Array<E> {
     }
 
     /**
+     * 获取最后一个的元素
+     * @return
+     */
+    public E getLast(){
+        return get(size-1);
+    }
+
+    /**
+     * 获取第一个位置的元素
+     * @return
+     */
+    public E getFirst(){
+        return get(0);
+    }
+
+    /**
      * 修改index索引位置的元素
      * @return
      */
