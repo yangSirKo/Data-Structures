@@ -1,7 +1,5 @@
 package com.ccyang.stack.util;
 
-import com.ccyang.linkedList.util.LinkedList;
-import com.ccyang.linkedList.util.Stack;
 
 /**
  * @author ccyang
