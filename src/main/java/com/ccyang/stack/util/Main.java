@@ -1,9 +1,5 @@
 package com.ccyang.stack.util;
 
-import com.ccyang.linkedList.util.ArrayStack;
-import com.ccyang.linkedList.util.LinkedListStack;
-import com.ccyang.linkedList.util.Stack;
-
 import java.util.Random;
 
 /**
